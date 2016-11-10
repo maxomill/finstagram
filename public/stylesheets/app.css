@@ -15,3 +15,6 @@ main {
 .post .user-info img {
     border-radius: 50%;
 }
+* {
+    font-family: 'Quicksand', sans-serif;
+}
